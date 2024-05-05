@@ -1,0 +1,10 @@
+# A importância da Sintaxe
+
+* Toda linguagem tem
+* Uma boa comunicação necessita de uma boa Sintaxe
+
+** Exemplo
+
+```js
+    console.log("Bem vindo ao Starter")
+```
