@@ -1,0 +1,10 @@
+String
+
+ * Cadeia de caracteres
+
+
+ "" -> aspas dupla
+ '' -> aspas simples
+ `` -> template literal ou template strings
+
+ 
